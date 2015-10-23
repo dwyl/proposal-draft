@@ -15,7 +15,15 @@ externally with clients based in several regions.
 
 This is *currently* done by manually transcribing or copy-pasting data from price display terminals to a variety of internal & 3rd party messaging tools ranging from Microsoft Messenger / Skype to WeChat (*in Asia*). The *existing* process is both time-consuming and does not allow the broker's clients to act on the price data in a timely manor. Furthermore, given that the *current* process is *manual* it is subject to *occasional human error*.
 
-### Solution
+#### *Estimate* of Lost Revenue due to Inefficiency of *Current System*
+
+A *rough estimate* of the ***wasted time*** for the current system is ***10 minutes per day per broker***.  
+If the average Broker is paid £60 per hour, ***£10 per day lost***.  
+If the firm has **100 brokers** its ***£1,000 per day lost***.
+
+> ***Payback period*** *for undertaking this project could be as low as* ***One Month***.
+
+### *Proposed Solution*
 
 The proposed solution is to build a *bespoke* information sharing application that will allow brokers to select precise data to be shared with their clients.
 
@@ -123,10 +131,11 @@ As soon as terms agreed the team can be assembled.
 
 Team members working on this project can expect to learn:
 
-+ Client + end-user perspective/understanding
 + Root-cause Analysis (*don't take the initial symptoms/problems as the only ones ... discover why the underlying issues exist*)
++ Client relationships + end-user perspective/understanding
 + Distributed + fault-tolerant real-time messaging architecture
 capable of processing millions of messages per second.
++ Data Security, Encryption and Role-based Access Control
 + How to Scale a Node.js Application for Thousands of Concurrent Users
 + Light-weight User Interface Design
 + Testing on Multiple Devices

@@ -117,3 +117,17 @@ to build a ***Minimum Useable Product***.
 
 As soon as terms agreed the team can be assembled.
 (*Start date to be agreed*)
+
+
+## Learning Opportunities
+
+Team members working on this project can expect to learn:
+
++ Client + end-user perspective/understanding
++ Root-cause Analysis (*don't take the initial symptoms/problems as the only ones ... discover why the underlying issues exist*)
++ Distributed + fault-tolerant real-time messaging architecture
+capable of processing millions of messages per second.
++ How to Scale a Node.js Application for Thousands of Concurrent Users
++ Light-weight User Interface Design
++ Testing on Multiple Devices
++ Continuous Integration & Deployment

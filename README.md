@@ -50,7 +50,7 @@ with the demands of clients based in several geographic regions.
 
 We are a *community* of people passionate about using technology to solve real problems.   
 In addition to the ***London-based team***
-we have people contributing *remotely* to our project(s) from Argentina, Brazil, Canada, Colombia, Estonia, New Zealand, Portugal, South Africa & USA
+we have people contributing *remotely* to our project(s) from Argentina, Australia, Brazil, Canada, China, Colombia, Estonia, New Zealand, Portugal, South Africa & USA
 (*the list grows daily*).
 
 ![dwyl who](https://cloud.githubusercontent.com/assets/194400/10739317/9966f0ac-7c13-11e5-8ff1-3c1ffa78a401.png)
@@ -58,8 +58,27 @@ we have people contributing *remotely* to our project(s) from Argentina, Brazil,
 Each project we undertake is staffed by a small team of people
 based in the same location as the client to ensure clear communication and rapid iteration. We augment this team with remote expertise as required e.g. to test our output or provide over-night code-review (*while A-Team sleeps*).
 
+> We expect to have a **team of 5 people** (*London-based*) working on this project:
++ ***System Architect*** - defines the overall project
++ ***Scrum Master/Project Manager*** - tracks team progress, liaises with client on requirements and ensures features are *tested* when delivered.
++ ***User Interface Designer*** - ensures minimal responsive design to achieve the desired goal (*avoids complex/complicated UI*) 
++ ***Developers*** - build the bulk of features as specified
+in *close collaboration* with the client/end-users
+
 ## *How*?
 
+Using industry-standard (*fast*) messaging processing between data-centers.
+
+### How Long Will it Take to Build an *Initial Version*?
+
+We estimate that it will take 4 weeks to build a Minimum Useable Product.
+#### Week 1
++ Understanding & ***Documenting*** the ***Existing Systems*** being used
++ ***Clarifying Requirements*** (*ensuring we are solving the underlying problem not just treating a symptom*)
++ ***Defining Acceptance Criteria*** (*what defines success for the project*?)
++ Creating the Development Environment
 
 
 ## *When*?
+
+As soon as the team can be assembled.

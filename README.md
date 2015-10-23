@@ -10,3 +10,5 @@ and have worked in Risk in Financial Services so are aware of
 compliance requirements.
 
 ## What?
+
+A way of allowing brokers to share pricing details with clients in real-time.

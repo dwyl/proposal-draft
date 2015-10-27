@@ -4,8 +4,7 @@
 
 ## Why?
 
-**Team communication** ***pain*** is a ***real problem*** many people face.   
-We want to help solve it with a *light-weight*, *low-latency* & *scalable* solution.
+**Team communication** ***pain*** is a ***real problem*** many people face; the loss of personal productivity and revenue is hurting. We plan to solve the problem by implementing a *light-weight*, *low-latency*, *simple* & *scalable* solution.
 
 ### Situation
 
@@ -87,7 +86,8 @@ in *close collaboration* with the client/end-users
 
 ## *How*?
 
-[ insert diagram here ]
+![communications-platform-diagram-1](https://cloud.githubusercontent.com/assets/194400/10749631/8ca40020-7c64-11e5-8d75-8bf8cfd3fec3.png)
+
 
 + Industry-standard (*fast + encrypted*) messaging processing between data-centers.
 + Light-weight user interface components display latest prices/spread data in real-time.

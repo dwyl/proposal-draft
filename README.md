@@ -4,7 +4,7 @@
 
 ## Why?
 
-**Team communication** ***pain*** is a ***real problem*** many people face; the loss of personal productivity and revenue is hurting. We plan to solve the problem by implementing a *light-weight*, *low-latency*, *simple* & *scalable* solution.
+**Team communication** ***pain*** is a ***real problem*** people face; the loss of personal productivity and revenue from ineffective systems is felt *universally*. We plan to solve the problem by implementing a *light-weight*, *low-latency*, *simple* & *scalable* solution.
 
 ### Situation
 
@@ -32,15 +32,15 @@ compliance requirements for data security, privacy and system integrity for both
 
 ## What?
 
-The fastest way for brokers to securely share time-sensitive pricing data with clients.
+We propose to build the fastest way for brokers to securely share time-sensitive pricing data with clients.
 
 ### Highlights
 
-+ Mobile-first solution
-+ Industry-leading Technology
-+ Ultra-low Latency
-+ End-to-End Encryption
-+ Built-in Analytics/Tracking
++ Mobile-first solution - share data from anywhere
++ Industry-leading Technology - no proprietary solutions or "vendor lock-in"
++ Ultra-low Latency - time-sensitive data should be sent as fast as possible.
++ End-to-End Encryption - data is always securely transmitted & stored
++ Built-in Analytics/Tracking - tie revenue to the exact data shared
 
 ### Detail
 
@@ -59,10 +59,10 @@ sensitive data while still letting them see what is relevant to them.
 
 ### The Client
 
-As one of the most successful commodities brokers in London,
-**Company XYZ** has developed a reputation for providing the
-best prices to their clients in a time-sensitive marketplace.
-The communication system used requires a refresh to keep up
+As a successful commodities brokers,
+**Company XYZ** provides the latest/best prices to their clients
+in a time-sensitive marketplace.
+The communication system being used has inherent Inefficiencies and requires a refresh to keep up
 with the demands of clients based in several geographic regions.
 
 ### *Implementation* Team
